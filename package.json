@@ -1,0 +1,14 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "basic node server to test React front end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Eliot Stein",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "^0.7.7"
+  }
+}
